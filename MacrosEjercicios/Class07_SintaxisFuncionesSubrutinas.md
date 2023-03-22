@@ -22,6 +22,6 @@ Definir si la subrutina sera publica o privada
 
 * Tipos de datos: En estos parametros debemos definir los tipos de datos.
 
-
-<image src="/Imagenes/.png" alt=" Sintaxis ">
+<!-- 
+<image src="/Imagenes/.png" alt=" Sintaxis "> -->
 
