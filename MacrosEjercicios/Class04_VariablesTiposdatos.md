@@ -5,4 +5,5 @@ Las variables tienen la característica, cualidad o propiedad de guardar diferen
 
 Tipos de datos:
 
-<image src="/Imagenes/tipodedatos.png" alt=" tipos de datos ">
+<image src="/Imagenes/tiposdedatos.png" alt=" tipos de datos ">
+
