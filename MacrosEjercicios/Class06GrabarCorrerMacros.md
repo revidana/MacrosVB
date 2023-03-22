@@ -30,7 +30,7 @@ Para ejecutar el macro creamos una nueva copia de la hoja de excel de netflix
 
 vamos ala pestaña programador y le damos clic al boton macro.
 
-<image src="/Imagenes/botonmacro.png" alt=" ajustes ">
+<image src="/Imagenes/botonmacros.png" alt=" ajustes ">
 
 
 Seleccionamos la macro que creamos y le damos al boton ejecutar
