@@ -4,7 +4,7 @@ Es importante definir cuales seral los pasos y los parametros y/o datos.
 
 definir las actividades y decisiones para la y los diferente caminos que puede tomar la programacion de la macro.
 
-<image src="/Imagenes/MSVisalBasicdiagramadeflujo.png" alt=" Diagrama de Flujo">
+<image src="/Imagenes/MSVisalBasic.png" alt=" Diagrama de Flujo">
 
 Para definir cual de estos numeros es mayor?
 
