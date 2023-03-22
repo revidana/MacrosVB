@@ -1,3 +1,5 @@
+#PC_WINDOWS
+
 cd g:
 cd My\ Drive/
 cd Projectos\ de\ Software/
@@ -9,10 +11,9 @@ cd PC_WINDOWS/
 
 cd darkgoshmx@gmail.com\ -\ Google\ Drive
 cd Mi\ unidad
-cd Projectos\ de\ Software
-cd PROYECTOS
-cd Curso_GIT
-cd Branch_MAC_M1_UN
-cd Curso_GIT
-ls 
-
+cd Educacion\ en\ Curso
+cd Platzi
+cd Curso_Excel_Avanzado_Macros
+cd BRANCH_MAC_M1
+cd MacrosVB
+ls

@@ -1,6 +1,5 @@
  
 #Establecer una Conexion Segura
-renat@Darkgosh-Lap MINGW64 /g/My Drive/Projectos de Software/PROYECTOS/Curso_git/PC_WINDOWS (main)
 
  ##Generar una nueva llave SSH: (Cualquier sistema operativo)
  ssh-keygen -t rsa -b 4096 -C "youremail@example.com"
